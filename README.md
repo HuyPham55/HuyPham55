@@ -1,16 +1,23 @@
-### Hi there 👋
+# About me
+**You can call me Jacky. And computer is in my DNA.**
 
-<!--
-**HuyPham55/HuyPham55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working as developer.
 
-Here are some ideas to get you started:
+Check out my GitHub page profile at [huypham55.github.io](https://huypham55.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+<div align="center">
+  <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="75%" />
+</div>
+
+#
+
+### Favorite quote
+> Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called present. 
+
+<div>
+  <img src="https://rushter.com/counter.svg" align="right"/>
+</div>
+
+
