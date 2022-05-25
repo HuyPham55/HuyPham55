@@ -7,11 +7,10 @@
 
 #
 <br>
-<div align="center" class="markdown-body">
-  <pre align="center">
-  <br>
-  <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="90%" />
-  </pre>
+<div align="center">
+
+  <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif"/>
+
 </div>
 
 #
