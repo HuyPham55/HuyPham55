@@ -1,5 +1,5 @@
 # About me
-**You can call me Jacky. And computer is in my DNA.**
+**Computer is in my DNA.**
 
 🔭 I’m currently working as developer.
 
